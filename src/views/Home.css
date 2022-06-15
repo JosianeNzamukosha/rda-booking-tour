@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.homecontainer{
+    background-image:url(../Assets/images/background.jpg);
+    height: 610px;
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: cover;
+    object-fit: cover;
+
+}
+.heading-title{
+    color: white;
+    text-transform: uppercase;
+    font-size: 4.4rem;
+    letter-spacing: 1px;
+    text-shadow: 3px 5px 5px #555;
+    text-align: center;
+    padding-top: 0.1rem;
+}
+.carousel-img{
+    width:35%;
+    margin: 0 auto;
+    /* padding: 2rem; */
+   
+}
+.carousel-img img{
+    height:300px;
+}
+.toptour{
+    color:white;
+    font-size: 3.2rem;
+    text-align: center;
+    font-weight: 900;
+    margin-top: 1rem;
+    margin-bottom: -0.8rem;
+}
+.align{
+    background-color:#1890ff;
+    border: none;
+    height:0.8rem;
+    width:7rem;
+    margin-left: 16rem;
+    border-radius: 50px;
+    margin-top:0;
+
+
+    margin-top: 0;
+}
